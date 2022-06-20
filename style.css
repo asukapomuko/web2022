@@ -13,14 +13,14 @@ body {
 }
 
 /* ヘッダー */
-.headar {
+.header {
     height: 112px;
     background-color: white;
 }
 
-.header-conntainer {
+.header-container {
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
     height: 100%;
 }
