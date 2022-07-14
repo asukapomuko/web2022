@@ -113,7 +113,6 @@ img{
 .imgtext{
     /* padding: clamp(90px,9vw,120px) 0; */
     padding: var(--v-space) 0;
-    padding: clamp(90px, 9vw, 120px) 0;
     background-color: white;
 }
 
