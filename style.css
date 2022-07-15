@@ -12,7 +12,7 @@ body {
     font-family: sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6, p figure {
+h1, h2, h3, h4, h5, h6, p, figure {
     margin: 0;
 }
 
@@ -178,7 +178,7 @@ img{
 /* パーツの見出し */
 .heading {
     position: absolute;
-    top: calc((ver(--v-space) + 0.6em) * -1);
+    top: calc((var(--v-space) + 0.6em) * -1);
     font-family: "Montserrat", sans-serif;
     font-size: clamp(40px, 5.2vw, 70px);
     min-height: 0vw;
