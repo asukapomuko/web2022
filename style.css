@@ -134,7 +134,7 @@ img{
         align-items: center;
     }
 
-    .imgtext-container.reverse{
+    .imgtext-container.reverse {
         flex-direction: row-reverse;
     }
 
